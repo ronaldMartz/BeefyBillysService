@@ -47,6 +47,12 @@ To-do list:
    
 git clone https://github.com/ronaldMartz/BeefyBillysService.git
 
+you will need to launch the program using Tomcat with the path being "/restaurantappserver"
+
+before you can launch the client side, you will need to open up the folder (I used Visual Studio Code) and install the appropriate modules using "npm install" in the integrated terminal for the application.
+
+After Installation, launch the client side application using "ng serve -o"
+
 ## Usage
 
 - When the program starts you should see https://github.com/ronaldMartz/BeefyBillysService/blob/main/Images/homePage.png
